@@ -977,6 +977,33 @@
     "cpf": "21193584272",
     "email": "robertocesar1010@hotmail.com",
     "nome": "Roberto Barbosa"
+  },
+  {
+    "id": "595",
+    "digitable": "826100000007002500220021036688940000062022900039",
+    "type": "1",
+    "value": "0.25",
+    "value_paynet": "0.28",
+    "paynet.parcelas": "avista",
+    "convenant": "string",
+    "corban": "",
+    "cpfcnpj": "10480314000192",
+    "due_date": "2022-06-27T14:29:14.455Z",
+    "external_terminal": "93625650215",
+    "transactionidauthorize": "1094786611",
+    "authentication": "3362",
+    "convenant-2": "BANCO ITAU",
+    "create_date": "2022-06-27 11:29:22",
+    "is_expired": "FALSE",
+    "settle_date": "2022-06-27 00:00:00",
+    "transactionid": "1094794990",
+    "authenticationapi_id": "89",
+    "efetuapagamento_id": "139",
+    "receipt_id": "89",
+    "original_value": "0.25",
+    "cpf": "93625650215",
+    "email": "klebersouzakk8@gmail.com",
+    "nome": "Kleber roberto silva de souza"
   }
 
 ]
