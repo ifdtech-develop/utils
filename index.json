@@ -1004,6 +1004,29 @@
     "cpf": "93625650215",
     "email": "klebersouzakk8@gmail.com",
     "nome": "Kleber roberto silva de souza"
+  },
+  {
+    "id": "90",
+    "digitable": "82630000032982400220010021370200185675111415",
+    "type": "1",
+    "value": "3298.24",
+    "value_paynet": "3992.52",
+    "paynet.parcelas": "4X",
+    "convenant": "string",
+    "corban": "",
+    "cpfcnpj": "10480314000192",
+    "due_date": "2022-06-27T16:35:48.883Z",
+    "transactionidauthorize": "1095125954",
+    "authentication": "1182",
+    "convenant-2": "BANCO ITAU",
+    "create_date": "2022-06-27 13:39:42",
+    "is_expired": "FALSE",
+    "settle_date": "2022-06-27 00:00:00",
+    "transactionid": "1095129699",
+    "original_value": "3298.24",
+    "cpf": "05631556200",
+    "email": "celicepalheta@hotmail.com",
+    "nome": "Joana Pereira Neri"
   }
 
 ]
